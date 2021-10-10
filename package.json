@@ -1,0 +1,18 @@
+{
+  "name": "portfolioPage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "app": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express.js": "^1.0.0",
+    "nodemailer": "^6.6.3",
+    "nodemon": "^2.0.12"
+  }
+}
